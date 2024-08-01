@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anuj42-alt
-- 👀 I’m interested in petroleum industry
+- 👀 I’m interested in petroleum industry.
 - 🌱 I’m currently learning application of python in petroleum industry.
 - 💞️ I’m looking to collaborate on application of python in petroleum industry.
 - 📫 How to reach me ...
